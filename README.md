@@ -1,4 +1,4 @@
-> ⚠️ **This branch is no longer maintained.** MediaWiki 1.31 went End-of-Life in September 2021.
+> ⚠️ **This branch is maintained specifically for Yugipedia.** MediaWiki 1.31 went End-of-Life in September 2021, but it's where we're currently stuck. This fork allows us to backport important fixes and the occasional new feature. If you maintain a wiki that is for some reason also stuck on MW 1.31, you're welcome to use this fork, but we have no intentions of supporting any other versions of MediaWiki here.
 
 # Discord (mw-discord)
 MediaWiki extension for sending notifications to a Discord webhook from MediaWiki. When a certain event occurs on your MediaWiki wiki, including new edits, they can be sent as a message to a channel on a Discord server using a webhook.
